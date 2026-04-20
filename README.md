@@ -18,7 +18,6 @@ I'm Bindu Nithyananda, a Business Analytics graduate student at Sacramento State
 My career pivot from Software Engineer at Accenture to Data Analytics professional reflects my passion for finding the human story within datasets. I don't just build dashboards, I design data solutions that people actually use, automate processes that save hundreds of work hours, and create analytical frameworks that answer the real "why" behind business challenges.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://BinduNithyananda.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
